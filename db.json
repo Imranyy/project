@@ -1,0 +1,19 @@
+{
+  "Reg-data": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Log-in data": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "other-info": {
+    "name": "typicode"
+  }
+}
